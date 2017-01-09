@@ -8,5 +8,6 @@ import template from './app.component.html';
 })
 export class AppComponent {
 
+a = "test"
 
 }
